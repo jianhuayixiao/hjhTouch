@@ -1,5 +1,5 @@
 body{ margin: 0; }
-.touch-tab{ position: relative; max-width: 640px; margin: 0 auto; }
+.touch-tab{ position: relative; margin: 0 auto; }
 .touch-tab ul{ padding: 0; margin: 0; }
 .touch-tab ul li{ list-style: none outside; }
 .tab-con{ position: relative; width: 100%; height: 100%; overflow: hidden; }
